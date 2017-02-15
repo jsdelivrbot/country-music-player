@@ -1,0 +1,47 @@
+body {
+  background-image: url('../src/img/country.jpg');
+  background-size: cover;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 70%;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 4px;
+}
+
+.details {
+  background-color: grey;
+  opacity: 0.9;
+}
+
+.list-group-item {
+  cursor: pointer;
+  background: none !important;
+}
+
+.list-group-item:hover {
+  background-color: #eee !important;
+}
+
+.description {
+  color:white;
+  opacity: 1.2;
+}
+
+.media-heading {
+  color: white !important;
+}
